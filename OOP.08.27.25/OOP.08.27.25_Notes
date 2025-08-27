@@ -1,0 +1,8 @@
+char c = 65.25;
+cout << c;
+
+int i = 'A'
+cout << i;
+
+int i = '2' + '3';
+cout << "i is" << i << endl;
